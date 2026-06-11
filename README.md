@@ -1,4 +1,4 @@
-# :earth_americas: GDP dashboard
+# GDP Dashboard
 
 A Streamlit app for exploring GDP data of countries around the world, sourced from the [World Bank Open Data](https://data.worldbank.org/).
 
@@ -42,14 +42,14 @@ Open **http://localhost:8501** in your browser.
 
 ## 이슈 관리
 
-### ✅ 해결된 이슈
+### 해결된 이슈
 
 | 날짜 | 이슈 | 해결 방법 |
 |---|---|---|
 | 2026-06-11 | `.gitattributes` 파일이 미추적 상태로 방치됨 | 커밋 후 푸시 완료 |
 | 2026-06-11 | `.gitignore` 미설정으로 내부 도구 파일 노출 위험 | `.gitignore` 업데이트 완료 (`.claude/` 추가) |
 
-### 🔶 알려진 이슈 (미해결)
+### 알려진 이슈 (미해결)
 
 | 우선순위 | 이슈 | 설명 |
 |---|---|---|
